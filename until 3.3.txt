@@ -1,0 +1,17 @@
+2.5 social login part
+const {
+          target: { name },
+        } = event;  => why put , at the end of {name}?
+
+3.1 Nweeting!
+if you have trouble, firebase version 8.5.0 is the best solution, maybe.
+when firebase version over 9 it has problem on directory.
+
+what is async and await?
+https://developer.mozilla.org/ko/docs/Learn/JavaScript/Asynchronous/Async_await
+
+firebase docs
+https://firebase.google.com/docs/reference/js
+
+What is the error type: Unhandled Rejection (TypeError): userObj is undefined
+
