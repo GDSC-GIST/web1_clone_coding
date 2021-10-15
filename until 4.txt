@@ -15,3 +15,10 @@ https://firebase.google.com/docs/reference/js
 
 What is the error type: Unhandled Rejection (TypeError): userObj is undefined
 
+when 3.4-3.6, I typed $ but it did not work as location, just paste it then it worked. Why?
+
+file storage location => bucket
+
+what means "img element must have an alt prop"?
+
+
