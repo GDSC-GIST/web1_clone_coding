@@ -22,3 +22,6 @@ file storage location => bucket
 what means "img element must have an alt prop"?
 
 
+export default vs const => just custom grammar
+
+
